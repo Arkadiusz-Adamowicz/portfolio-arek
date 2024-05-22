@@ -23,7 +23,7 @@ const Home = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos; Arek, a Next.js Developer based in Poland.
+            Hi, I&apos;m Arek, a Next.js Developer based in Poland.
           </p>
         </div>
       </div>
