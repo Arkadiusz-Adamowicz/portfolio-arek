@@ -7,7 +7,7 @@ import Link from 'next/link';
 const RecentProjects = () => {
   return (
     <div className='py-20' id='projects'>
-      <h1 className='heading'>
+      <h1 className='heading mb-8'>
         A small selection of{' '}
         <span className='text-purple'>recent projects</span>
       </h1>
@@ -17,7 +17,7 @@ const RecentProjects = () => {
             href={link}
             target='_blank'
             key={id}
-            className='sm:h-[41rem] h-[32rem] lg:min-h-[32.5rem] flex items-center justify-center sm:w-[570px] w-[80vw]'
+            className='sm:h-[32rem] h-[25rem] flex items-center justify-center sm:w-[570px] w-[80vw]'
           >
             <PinContainer title={link} href={link}>
               <div className='relative flex items-center justify-center sm:w-[570px] w-[80vw] overflow-hidden sm:h-[40vh] h-[30vh] mb-10'>
