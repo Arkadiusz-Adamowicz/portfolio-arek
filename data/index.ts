@@ -88,7 +88,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: 'PriceWise - WebPage Scraper',
+    title: 'PriceWise - Website Scraper',
     des: 'Powerful, self-serve product and growth analytics to help you convert, engage, and retain more.',
     img: '/pricewise.png',
     iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/c.svg'],
@@ -96,9 +96,9 @@ export const projects = [
   },
   {
     id: 4,
-    title: 'Animated Apple Iphone 3D Website',
+    title: 'Iphone3D promo Website',
     des: 'Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..',
-    img: '/p4.svg',
+    img: '/iphone.png',
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
     link: 'https://iphone-arek.netlify.app/',
   },
